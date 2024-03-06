@@ -1,5 +1,5 @@
 {
-  "name": "com.ahengine.uscreens",
+  "name": "com.playdive.uscreens",
   "version": "1.0.0",
   "displayName": "UScreens",
   "description": "UScreens is minimal UI Screen handler, router based on MVC",
